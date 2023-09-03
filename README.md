@@ -17,8 +17,7 @@
 <a href="https://material-ui.org/" target="_blank"> <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="material-ui" /></a>
 <a href="https://nodejs.org" target="_blank"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" /> </a>
 <a href="https://www.expressjs.com" target="_blank"> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs" /> </a>
-<a href="https://graphql.org" target="_blank"> <img src="https://img.shields.io/badge/graphql-e535ab?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql" /> </a>
-<a href="https://docs.aws.amazon.com" target="_blank"> <img src="https://img.shields.io/badge/graphql-e535ab?style=for-the-badge&logo=amazon&logoColor=white" alt="graphql" /> </a>
+<a href="https://graphql.org" target="_blank"> <img src="https://img.shields.io/badge/graphql-e535ab?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql" /> </a
 <a href="https://www.apollographql.com" target="_blank"> <img src="https://img.shields.io/badge/apollo-162A45?style=for-the-badge&logo=apollo%20graphql&logoColor=white" alt="apollo" /> </a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" /> </a>
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" /> </a>
